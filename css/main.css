@@ -229,7 +229,7 @@ section a:active{
 }
 
 #agenda table th{
-    color: var(--pink-color);
+    color: #000000;
 }
 #agenda table td, #agenda table th{
     font-weight: 900;
