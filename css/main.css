@@ -28,7 +28,7 @@ html{
 /* MENU */
 
 #nav{
-    position: fixed;
+    position: relative;
     top: 0;
     left: 0;
     background: var(--dark-color);
@@ -55,7 +55,7 @@ html{
 }
 
 #nav-links a{
-    color: #dedede;
+    color: rgb( 45, A2 ,104);
     text-decoration: none;
     transition: font-size .2s ease-in;   
 }
