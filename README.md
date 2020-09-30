@@ -1,4 +1,4 @@
-# HacktoberfestJN
+# HacktoberfestJN - AN DYNAMIC PROJRCT
 Website oficial do Hacktoberfest Janaúba.
 Disponível em [HacktoberfestJN](https://hacktoberfestjn.netlify.com/).
 
