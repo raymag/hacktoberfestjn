@@ -1,5 +1,5 @@
 # HacktoberfestJN
-Website oficial do Hacktoberfest Janaúba.
+Website official do Hacktoberfest Janaúba.
 Disponível em [HacktoberfestJN](https://hacktoberfestjn.netlify.com/).
 
 ## Contribuições
